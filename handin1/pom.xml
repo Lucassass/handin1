@@ -5,6 +5,11 @@
     <artifactId>handin1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <modules>
+        <module>serviceLoader</module>
+        <module>netbeanslab1</module>
+        <module>netbeanslab2</module>
+    </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
