@@ -6,9 +6,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>serviceLoader</module>
         <module>netbeanslab1</module>
         <module>netbeanslab2</module>
+        <module>../../../SB4-KOM-F20/AsteroidsServiceLoader</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
